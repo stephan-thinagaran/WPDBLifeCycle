@@ -1,0 +1,1 @@
+CREATE SCHEMA [WellnessMembership] AUTHORIZATION [dbo];
